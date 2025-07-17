@@ -1,6 +1,5 @@
 # Ultimate Crypto Trading Bot 🚀
 
-[![License: MPL](https://img.shields.io/badge/License-MIT-yellow.svg)]((https://mozilla.org/MPL/2.0/))
 [![TradingView](https://img.shields.io/badge/TradingView-PineScript-blue.svg)](https://www.tradingview.com)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/dextergocode/ultimate-crypto-bot/releases)
 
