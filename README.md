@@ -1,8 +1,7 @@
 # Ultimate Crypto Trading Bot 🚀
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8ddded7f-12d1-4e77-8c61-b6fe5dbc5d9e" />
-##  BTC
+
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8c3f98a5-b4c5-4d6b-9ddd-a9919728f625" />
-## 🎯 Features
+
 
 [![TradingView](https://img.shields.io/badge/TradingView-PineScript-blue.svg)](https://www.tradingview.com)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/dextergocode/ultimate-crypto-bot/releases)
