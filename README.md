@@ -125,12 +125,6 @@ The code structure allows for easy addition of new technical indicators in the "
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - TradingView for the Pine Script platform
@@ -168,10 +162,6 @@ If you find this strategy helpful, please:
 ## 📄 Changelog
 
 ### v1.0.0 (Current)
-- Initial release with core strategy
-- Multi-indicator analysis
-- Risk management system
-- Performance tracking dashboard
 
 ---
 
